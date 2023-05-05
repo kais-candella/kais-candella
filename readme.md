@@ -1,4 +1,4 @@
-# 🕵️Recherche d'une alternance en Intelligence Artificielle
+# 🕵️Recherche d'une alternance en tant que Data scientist / Data analyst
 
 Je suis actuellement à la recherche d'une alternance en Intelligence Artificielle, à partir d'Octobre 2023.
 
