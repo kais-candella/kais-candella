@@ -16,10 +16,6 @@ Je suis actuellement à la recherche d'une alternance en Intelligence Artificiel
 - Réglage d'un studio Radio, création d'une nouvelle charte graphique et de contenu sur les réseaux chez Blackfeeling Radio en Juillet 2021
 - Aide aux clients sur les ordinateurs, gestion de la clientèle et des encaissements chez Néomania en Octobre 2022
 
-## Projets réalisés
-
-- Site web pour la ville de Marseille : participation à la création d'un site internet avec un groupe de travail en HTML et CSS, consolidation de mes compétences en travail d'équipe et en collaboration.
-
 ## Principaux centres d'intérêt
 
 - Logiciels (suite Adobe)
